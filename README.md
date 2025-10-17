@@ -2,7 +2,7 @@
  My GitHub Profile – Showcasing my AI, Data & Project Management journey
  <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=03C6FC&center=true&vCenter=true&width=600&lines=Hey+I'm+Ashmita+👋;AI+and+Project+Management+Enthusiast;Turning+Ideas+into+Intelligent+Solutions;Welcome+to+My+GitHub!">
+ 
 </p>
 
 ---
@@ -83,6 +83,6 @@ I’m driven by curiosity, empathy, and excellence — constantly exploring how 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00F9A7&center=true&vCenter=true&width=550&lines=Let's+collaborate+and+create+something+impactful+✨">
+ 
 </p>
 
