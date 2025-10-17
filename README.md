@@ -36,6 +36,7 @@ AI in Business 💼 · Data Visualization 📈 · Sustainable Innovation 🌱 ·
 
 | 🧩 Project | 💡 Description | 🛠️ Tech |
 |-------------|----------------|---------|
+| [**Wings of Trust WEBSITE**](#)  <a href="[mailto:chowdhuryashmita10@gmail.com](https://share.google/j4xIcv2noUep6lB2v)"><img src="[https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white](https://www.wingsoftrust.co.in/logo1.png)"></a> | Website made for a freelance project. | HTML, Tailwind CSS , Js |
 | [**AI for Predictive Project Management**](#) | Research paper exploring AI tools for efficient scheduling, risk management & resource allocation. | Python, ML, NLP |
 | [**Sustainable Kitchen Design (FSCAI Summit 2025)**](#) | Innovative concept combining sustainability with smart kitchen planning. | AI, Design Thinking |
 | [**Rich Chocolate Banana Cake Pricing Model**](#) | A simple data-based project calculating sales planning & profitability. | Python, Excel |
