@@ -1,2 +1,2 @@
 # AshmitaChowdhury10.
-My Profile Summary ☺️
+ My GitHub Profile – Showcasing my AI, Data & Project Management journey
