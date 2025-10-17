@@ -11,8 +11,8 @@
 
 Hi there! I'm **Ashmita Chowdhury**, a passionate **AI-driven technologist** and **project management learner** who loves creating solutions that blend **data, design, and purpose**.  
 
-🎓 Currently pursuing **BCA** and exploring how **Artificial Intelligence can transform sustainable business practices**.  
-💼 Actively working on **AI for Predictive Project Management** and **Sustainable Kitchen Design** initiatives.  
+🎓Graduated in **Bachelors of Computer Application** and exploring how **Artificial Intelligence can transform sustainable business practices**.  
+💼 Actively working on **AI for Predictive Project Management** and **Using Tech for a social cause** initiatives.  
 🚀 I believe in *learning deeply, working smartly, and growing continuously*.  
 
 > “The goal is not just to code, but to create impact through intelligent systems.”
